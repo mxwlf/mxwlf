@@ -24,7 +24,8 @@
     - Jetbrains Rider for .NET.
     - ~~Jetbrains AppCode~~ XCode for Swift. 😔
     - VSCode for pretty much everything else.
-    - _all of these support vim emulation and there is a VSCode plugin to use NeoVim as backend_
+    - NeoVim for a lot else.
+    - _all of these IDE's support vim emulation and there is even a VSCode plugin to use NeoVim as backend_
 - Currently reading:
   - [Be Useful: Seven Tools for Life - Arnold Schwarzenegger](https://www.amazon.com/Be-Useful-Seven-Tools-Life/dp/0593655958/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
   - [Real Tigers - Mick Herron](https://www.amazon.com/Real-Tigers-Slough-House-Herron/dp/1616956127/)
